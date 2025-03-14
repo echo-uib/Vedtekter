@@ -36,6 +36,18 @@ I disse vedtektene betyr
 
    Person med verv i samme undergruppe.
 
+10. Simpelt flertall
+
+	Det forslaget som får flest stemmer blir vedtatt.
+
+11. alminnelig flertall
+
+	Hvis et forslag får mer enn 50% av stemmene blir det vedtatt.
+
+12. 2/3 kvalifisert flertall
+
+	Hvis et forslag får mer enn 2/3 av stemmene blir det vedtatt.
+
 ## § 1 Foreningens navn
 
 Foreningens offisielle navn er "echo - Linjeforeningen for informatikk". Foreningen kan i dagligtale og skriftlige referanser forkortes til "echo" (med liten e).
@@ -119,7 +131,7 @@ Hovedstyret skal sørge for at echo sine vedtekter opprettholdes.
 
 	c. Et slikt mistillitsforslag vil bli behandlet av hovedstyret på et hovedstyremøte. De involverte partene presenterer saken sin ved ønske, de involverte må forlate rommet under diskusjon og avstemming. Denne avstemningen er anonym, og det er nødt til å være en tredjepart, som ikke er en del av echo, som teller stemmene.
 
-	d. Hvis mistillitsforslaget blir vedtatt med 2/3-flertall mister personen plassen sin i styret.
+	d. Hvis mistillitsforslaget blir vedtatt med 2/3 kvalifisert flertall mister personen plassen sin i styret.
 
 3. Mistillitsforslag mot mer enn ett -1- medlem i hovedstyret
 
@@ -137,7 +149,7 @@ Hovedstyret skal sørge for at echo sine vedtekter opprettholdes.
 
 	b. Valgresultatet utover de folkevalgte er taushetsbelagt, og skal oppbevares av en tredjepart uavhengig av echo.
 
-	c. Innsyn kan gis til personer i og utenfor Hovedstyret, og må vedtas med 2/3 flertall på styremøte. Disse personene er underlagt taushetsplikten. Dersom begjæringen om innsyn ikke vedtas av Hovedstyret, kan søker kreve at saken tas opp på neste generalforsamling.
+	c. Innsyn kan gis til personer i og utenfor Hovedstyret, og må vedtas med 2/3 kvalifisert flertall på styremøte. Disse personene er underlagt taushetsplikten. Dersom begjæringen om innsyn ikke vedtas av Hovedstyret, kan søker kreve at saken tas opp på neste generalforsamling.
 
 3. Tidspunkter
 
@@ -211,7 +223,7 @@ Leder og ett annet styremedlem kan signere sammen.
 
 ## § 13 Vedtektsendring
 
-1. Disse vedtektene gjelder fra 7/11-95. Den sittende linjeforening har ansvaret for iverksettelsen av disse vedtektene. Disse vedtektene kan kun endres på en generalforsamling ved Institutt for informatikk på Universitetet i Bergen. Et vedtak om en endring må ha oppnådd 2/3 flertall blant de tilstedeværende stemmeberettigede.
+1. Disse vedtektene gjelder fra 7/11-95. Det sittende Hovedstyret har ansvaret for iverksettelsen av disse vedtektene. Disse vedtektene kan kun endres på en generalforsamling ved Instituttet. Et vedtak om en endring må ha oppnådd 2/3 kvalifisert flertall blant de tilstedeværende stemmeberettigede.
 2. Vedtektene ble sist endret ved generalforsamling 04.03.2024.
 3. Hovedstyret har til enhver tid myndighet til å gjøre redaksjonelle endringer i echo sine vedtekter. En redaksjonell endring er en endring vedrørende grammatikk, struktur eller ordlyd som ikke forandrer på meningen eller innholdet i originalteksten. Eventuelle endringer må protokollføres, og informeres om under neste generalforsamling.
 
