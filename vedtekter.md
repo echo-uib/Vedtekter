@@ -22,11 +22,9 @@ I disse vedtektene betyr
 
 ## § 1 Foreningens navn
 
-Foreningens offisielle navn er "echo - Linjeforeningen for informatikk". Foreningen kan i dagligtale og skriftlige referanser forkortes til "echo" (med liten e). I disse vedtektene vil foreningen refereres til som "echo".
+Foreningens offisielle navn er "echo - Linjeforeningen for informatikk". Foreningen kan i dagligtale og skriftlige referanser forkortes til "echo" (med liten e).
 
 ## § 2 Medlemmer
-Studenter som oppfyller minst ett -1- av følgende punkter regnes som “Våre studenter”::
-
 1. Programstudenter ved Instituttet.
 2. Post-bachelorstudenter og post-masterstudenter som tidligere har vært programstudenter ved Instituttet, som har betalt semesteravgift og tar emne(r).
 3. Ph.d.-kandidater ved Instituttet som tidligere har vært programstudenter ved Instituttet. Ved gode grunner kan hovedstyret tillate andre Ph.d.-kandidater.
