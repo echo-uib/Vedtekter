@@ -281,4 +281,8 @@ Oppløsning skjer dersom Linjeforeningen er uten styremedlemmer i mer enn 6 mån
 
 ## § 15 Økonomi
 
-Hovedstyret skal drive foreningen på en bærekraftig og ansvarlig måte for nåværende og fremtidige generasjoner. Hovedstyret plikter seg å sette opp minst et budsjett per semester. Budsjettet skal ikke gå med underskudd med mindre hovedstyret gjør en investering for fremtidige generasjoner eller hovedstyret ser det som ansvarlig.
+1. Hovedstyret skal drive foreningen på en bærekraftig og ansvarlig måte for nåværende og fremtidige generasjoner. 
+2. Hver undergruppe plikter seg å sette opp et budsjett og føre regnskap for hvert semester.
+3. Hovedstyret plikter å sette opp et budsjett og føre regnskap for hvert semester.
+4. Undergruppene skal sende inn et førsteutkast av budsjettet til Hovedstyret i forkant av hvert semester. Hovedstyret vil deretter gi tilbakemelding, slik at nødvendige justeringer kan gjøres før budsjettet godkjennes i begynnelsen av det nye semesteret.
+5. Budsjettet skal ikke gå med underskudd med mindre hovedstyret gjør en investering for fremtidige generasjoner eller hovedstyret ser det som ansvarlig.
