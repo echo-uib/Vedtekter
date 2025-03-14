@@ -72,10 +72,10 @@ Foreningens offisielle navn er "echo - Linjeforeningen for informatikk". Forenin
 ## § 4 Rettigheter og plikter knyttet til medlemskapet
 1. Våre studenter har rett til å delta på generalforsamlinger, er stemmeberettigede og kan stille til valg i Hovedstyret.
 2. Våre studenter har rett til å delta på alle arrangementer holdt av echo, gitt at de er i arrangementets målgruppe.
-3. Våre studenter har rett til å søke om økonomiske midler som brukes i samsvar med § 3.
+3. Våre studenter har rett til å søke om økonomiske midler som brukes i samsvar med § 3 Formål.
 4. Våre studenter kan kreve innsyn i echos regnskap og kan få innsyn i ikke-konfidensielle vedtak.
 5. Det er kun Våre studenter som kan fremme mistillit som definert i § 7.
-6. Våre studenter plikter å forholde seg til vedtak som er fattet av generalforsamlingen.
+6. I forbindelse med echo, plikter Våre studenter å forholde seg til vedtak og retningslinjer fattet av generalforsamlingen og Hovedstyret.
 7. Våre studenter plikter å forholde seg til arrangementspesifikke retningslinjer.
 
 ## § 5 Kontingent
