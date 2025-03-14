@@ -34,56 +34,89 @@ echo har ingen medlemskontingent.
 Hovedstyret skal sørge for at organisasjonens vedtekter opprettholdes.
 
 1. Styret
+	
 	a. Hovedstyret består av de folkevalgte og én -1- representant fra hver av echos undergrupper.
+	
 	b. Det avholdes valg av representant internt i undergruppene etter valgresultatene før de folkevalgte er offentliggjort.
+	
 	c. En person kan ikke representere mer enn én -1- undergruppe. De folkevalgte kan ikke være representant for en undergruppe.
+	
 	d. Det er kun de folkevalgte som kan velges inn som leder, nestleder, økonomiansvarlig og økonomiassistent.
 
-e. Hvis noen av kandidatene som blir valgt inn som hovedstyremedlem sitter i en undergruppe kan vedkomne selv velge å ta pause fra vervet sitt i undergruppen. Representanten kan returnere til vervet sitt etter styreperioden er over. Representanten skal bli invitert til sosiale sammenkomster i undergruppen.
+	e. Hvis noen av kandidatene som blir valgt inn som hovedstyremedlem sitter i en undergruppe kan vedkomne selv velge å ta pause fra vervet sitt i undergruppen. Representanten kan returnere til vervet sitt etter styreperioden er over. Representanten skal bli invitert til sosiale sammenkomster i undergruppen.
 
 2. Styremøte
+
 	a. Hovedstyret avgjør selv møtehyppigheten.
+
 	b. Hovedstyret er vedtaksdyktig dersom mer enn 50% av utvalgets medlemmer er tilstede.
+
 	c. Vedtak fattes ved simpelt flertall. Ved stemmelikhet har leder dobbeltstemme.
+
 	d. Alle Hovedstyrets møter skal protokollføres, og protokollen skal offentliggjøres. Protokollen skal offentliggjøres innen neste hovedstyremøte. Hovedstyret forbeholder seg retten til å unnta saker av sensitiv grad fra den offentlige protokollen, det skal inngå i referater at saker har blitt unntatt offentligheten.
+
 	e. En representant fra hver av echos undergrupper har møterett på Hovedstyrets møter.
+
 	f. Studentrepresentantene i instituttrådet har møterett i Hovedstyret. De plikter også å holde Hovedstyret orientert om saker i instituttrådet.
 
 3. Vervet
+
 	a. Representanter kan trekke seg fra sitt verv i Hovedstyret dersom det er særskilt grunn.
+
 	b. Hvis en representant trekker seg fra Hovedstyrets kandidatliste, skal valgalgoritmen kjøres på nytt igjen med stemmene fra foregående valg. Personen som trakk seg fjernes fra stemmesedlene, og kandidater med lavere rangering enn den som trakk seg vil da rykke opp. I det tilfelle der det nye resultatet har mer enn ett nytt styremedlem vil stemmene på alle andre kandidater enn de aktuelle personene fjernes. En kjører så algoritmen en tredje gang der kun én kandidat utnevnes. Denne kandidaten overtar for personen som trakk seg.
 
 ## § 7 Mistillit
 
 1. Et mistillitsforslag kan fremmes dersom ett eller flere av følgende punkter er oppfylt
+
 	a. Personen(e) har vesentlig forsømt sine oppgaver som representant i hovedstyret.
+
 	b. Personen(e) har brutt utvalgets vedtekter.
+
 	c. Personen(e) har brutt norsk lov iht. utføring av vervets oppgaver.
+
 2. Mistillit mot ett -1- medlem i hovedstyret
+
 	a. Et mistillitsforslag fremmes ved en skriftlig henvendelse til et hovedstyremedlem av en av Våre studenter.
+
 	b. Hovedstyret er nødt til å behandle mistillitsforslaget innen to -2- uker.
+
 	c. Et slikt mistillitsforslag vil bli behandlet av hovedstyret på et hovedstyremøte. De involverte partene presenterer saken sin ved ønske, de involverte må forlate rommet under diskusjon og avstemming. Denne avstemningen er anonym, og det er nødt til å være en tredjepart, som ikke er en del av echo, som teller stemmene.
+
 	d. Hvis mistillitsforslaget blir vedtatt med 2/3-flertall mister personen plassen sin i styret.
 
 3. Mistillitsforslag mot mer enn ett -1- medlem i hovedstyret
+
 	a. Et mistillitsforslag fremmes ved en skriftlig henvendelse til et hovedstyremedlem med minst ti -10- unike signaturer og navn fra Våre studenter.
+
 	b. Dersom det fremmes mistillitsforslag mot mer enn ett -1- hovedstyremedlem skal det bli kalt inn til ekstraordinær generalforsamling i henhold til §9. Mistillitsforslaget vil være den eneste saken på sakslisten. Denne avstemningen er anonym.
+
 	c. Hvis mistillitsforslaget blir vedtatt med simpelt flertall, skal det bli avholdt ekstraordinært valg i henhold til § 8.4. Hovedstyret er nødt til å gå av innen to -2- uker.
 
 ## § 8 Valg
 1. Det avholdes valg til Hovedstyret hver vår i forbindelse med generalforsamling. Her velges syv -7- kandidater gjennom preferansevalg.
 2. Valgresultat
+
 	a. Valgresultatet skal offentliggjøres som en alfabetisk liste bestående av de folkevalgte. Liste over resterende kandidater som stilte til valg publiseres i alfabetisk rekkefølge.
+
 	b. Valgresultatet utover de folkevalgte er taushetsbelagt, og skal oppbevares av en tredjepart uavhengig av echo.
+
 	c. Innsyn kan gis til personer i og utenfor Hovedstyret, og må vedtas med 2/3 flertall på styremøte. Disse personene er underlagt taushetsplikten. Dersom begjæringen om innsyn ikke vedtas av Hovedstyret, kan søker kreve at saken tas opp på neste generalforsamling.
 
 3. Tidspunkter
+
 	a. Det skal avholdes ordinær generalforsamling siste uken av februar, det kan flyttes opp til to -2- uker dersom Hovedstyret ser dette som hensiktsmessig.
+
 	b. Valget kan ikke være mer enn én -1- måned.
+
 	c. Det nye Hovedstyret trer i kraft fra og med én -1- måned etter valget, datoen kan flyttes opp til to -2- uker hvis Hovedstyret ser dette som hensiktsmessig.
+
 	d. Nåværende Hovedstyret blir sittende frem til det påfølgende Hovedstyret trer i kraft.
+
 4. Ekstraordinært
+
 	a. Et ekstraordinært valg kan kun innkalles av en generalforsamling, eller gjennom (Mistillits paragraf)§ 7.3.
+
 	b. Innvalgte fra et ekstraordinært valg blir det nye Hovedstyret.
 
 ## § 9 Generalforsamling
@@ -94,10 +127,14 @@ e. Hvis noen av kandidatene som blir valgt inn som hovedstyremedlem sitter i en 
 5. Forslag til saker som skal opp på generalforsamlingen må fremmes til Hovedstyret minst fire -4- virkedager før generalforsamlingen skal holdes.
 6. Tre -3- virkedager før generalforsamlingen skal endelig dagsorden offentliggjøres.
 7. Ordinær generalforsamling
+
 	a. Det skal innkalles til minst én -1- generalforsamling i året, i forbindelse med §5 Valg
+
 	b. Generalforsamlingen skal gjennomgå forvaltningen av organisasjonens økonomi.
 8. Ekstraordinær generalforsamling
+
 	a. Generalforsamling skal arrangeres når Hovedstyret mener at det foreligger saker eller situasjoner for Våre studenter som ikke kan utsettes til den årlige generalforsamling.
+
 	b. Det kan også innkalles til generalforsamling når minst ti -10- personer krever det eller ett medlem av Hovedstyret krever det.
 
 ## § 10 Organisasjonsform
