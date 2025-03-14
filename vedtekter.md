@@ -208,9 +208,10 @@ Hovedstyrets hovedoppgave er å sørge for at echo sine vedtekter opprettholdes,
 7. Tre -3- virkedager før generalforsamlingen skal endelig saksliste offentliggjøres.
 8. Ordinær generalforsamling
 
-	a. Det skal innkalles til minst én -1- generalforsamling i året, i forbindelse med §5 Valg
+	a. Det skal avholdes ordinær generalforsamling siste uken av februar, det kan flyttes opp til to -2- uker dersom Hovedstyret ser dette som hensiktsmessig.
 
 	b. Generalforsamlingen skal gjennomgå forvaltningen av organisasjonens økonomi.
+
 9. Ekstraordinær generalforsamling
 
 	a. Generalforsamling skal arrangeres når Hovedstyret mener at det foreligger saker eller situasjoner for Våre studenter som ikke kan utsettes til den årlige generalforsamling.
