@@ -56,7 +56,8 @@ Foreningens offisielle navn er "echo - Linjeforeningen for informatikk". Forenin
 1. Programstudenter ved Instituttet.
 2. Post-bachelorstudenter og post-masterstudenter som tidligere har vært programstudenter ved Instituttet, som har betalt semesteravgift og tar emne(r).
 3. Ph.d.-kandidater ved Instituttet som tidligere har vært programstudenter ved Instituttet. Ved gode grunner kan hovedstyret tillate andre Ph.d.-kandidater.
-4. Ved gode grunner kan Hovedstyret tillate andre studenter, dersom de tar hovedemner ved Instituttet.
+4. Studenter som har fått godkjent en søknad av Hovedstyret, gitt at de tar hovedemner ved Instituttet.
+5. Utvekslingsstudenter som tar hovedemner ved Instituttet.
 
 ## § 3 Formål
 
