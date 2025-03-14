@@ -76,7 +76,6 @@ Foreningens offisielle navn er "echo - Linjeforeningen for informatikk". Forenin
 4. Våre studenter kan kreve innsyn i echos regnskap og kan få innsyn i ikke-konfidensielle vedtak.
 5. Det er kun Våre studenter som kan fremme mistillit som definert i § 7.
 6. I forbindelse med echo, plikter Våre studenter å forholde seg til vedtak og retningslinjer fattet av generalforsamlingen og Hovedstyret.
-7. Våre studenter plikter å forholde seg til arrangementspesifikke retningslinjer.
 
 ## § 5 Kontingent
 echo har ingen medlemskontingent.
