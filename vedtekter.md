@@ -109,7 +109,7 @@ Hovedstyrets hovedoppgave er å sørge for at echo sine vedtekter opprettholdes,
 
 	e. En representant fra hver av echos undergrupper har møterett på Hovedstyrets møter.
 
-	f. Studentrepresentantene i instituttrådet har møterett i Hovedstyret. De plikter også å holde Hovedstyret orientert om saker i instituttrådet.
+	f. undergrupper-Rep kan gi fullmakt til verv-kamerat for å stemme.
 
 3. Vervet
 
