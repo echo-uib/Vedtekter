@@ -221,7 +221,7 @@ Hovedstyrets hovedoppgave er å sørge for at echo sine vedtekter opprettholdes,
 1. echo er en frittstående juridisk person med medlemmer, og er selveiende. At echo er selveiende innebærer at ingen, verken medlemmer eller andre, har krav på echos formue eller eiendeler, eller er ansvarlig for gjeld eller andre forpliktelser.
 2. echo har undergrupper som bidrar hovedsakelig til å opprettholde § 3 Formål. echos undergrupper og deres relevante fagområder er definert i § 11 Undergrupper.
 3. echos undergrupper skal kun bestå av Våre studenter.
-4. echo har “echo Programmerbar” som underorganisasjon. echo sitt hovedstyret og “echo Programmerbar” sitt hovedstyret har gjensidig møterett i styremøtene til hverandre.
+4. echo har “echo Programmerbar” som underorganisasjon. Leder i Hovedstyret og Programmerbar har gjensidig møterett i styremøtene til hverandre. Leder i de respetive organisasjonene kan utnevne en stedfortreder.
 
 ## § 11 Undergrupper
 1. Bedriftskomitéen (Bedkom)
