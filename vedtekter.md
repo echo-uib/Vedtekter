@@ -1,3 +1,25 @@
+## § 0 Definisjoner
+I disse vedtektene betyr
+1. echo
+
+   echo - Linjeforening for informatikk, org.nr.: 998995035.
+
+2. Våre studenter
+
+   Personer som oppfyller minst ett -1- av punktene i § 2 Medlemmer..
+
+3. Instituttet
+
+   Institutt for informatikk ved Universitetet i Bergen
+
+4. Fakultetet
+
+   Fakultet for naturvitenskap og teknologi ved Universitetet i Bergen.
+
+5. Programmerbar
+
+   echo Programmerbar, org.nr.: 927307898.
+
 ## § 1 Foreningens navn
 
 Foreningens offisielle navn er "echo - Linjeforeningen for informatikk". Foreningen kan i dagligtale og skriftlige referanser forkortes til "echo" (med liten e). I disse vedtektene vil foreningen refereres til som "echo".
@@ -5,17 +27,17 @@ Foreningens offisielle navn er "echo - Linjeforeningen for informatikk". Forenin
 ## § 2 Medlemmer
 Studenter som oppfyller minst ett -1- av følgende punkter regnes som “Våre studenter”::
 
-1. Programstudenter ved Institutt for informatikk ved Universitetet i Bergen.
-2. Post-bachelorstudenter og post-masterstudenter som tidligere har vært programstudenter ved Institutt for informatikk ved Universitetet i Bergen, og som fremdeles tar emne(r) ved nevnt institutt.
-3. Ph.d.-kandidater ved Institutt for informatikk ved Universitetet i Bergen som tidligere har vært programstudenter ved Institutt for informatikk ved Universitetet i Bergen. Ved gode grunner kan hovedstyret tillate andre Ph.d.-kandidater.
-4. Ved gode grunner kan hovedstyret tillate andre studenter, dersom de tar hovedemner ved Institutt for informatikk ved Universitetet i Bergen.
+1. Programstudenter ved Instituttet.
+2. Post-bachelorstudenter og post-masterstudenter som tidligere har vært programstudenter ved Instituttet, som har betalt semesteravgift og tar emne(r).
+3. Ph.d.-kandidater ved Instituttet som tidligere har vært programstudenter ved Instituttet. Ved gode grunner kan hovedstyret tillate andre Ph.d.-kandidater.
+4. Ved gode grunner kan Hovedstyret tillate andre studenter, dersom de tar hovedemner ved Instituttet.
 
 ## § 3 Formål
 
 1. echo har som hovedformål å ivareta og fremme interessene til Våre studenter.
 2. echo skal aktivt arbeide for å opprettholde og forbedre et høyt faglig og sosialt studiemiljø for Våre studenter.
-3. echo skal være en effektiv representant for Våre studenter ovenfor Institutt for informatikk og Fakultetet for naturvitenskap og teknologi ved Universitetet i Bergen, for å sikre studienes kvalitet og relevans.
-4. echo skal være et aktivt bindeledd mellom Våre studenter og næringslivet som har relevans i forbindelse med Institutt for informatikk ved Universitetet i Bergen.
+3. echo skal være en effektiv representant for Våre studenter overfor Instituttet og Fakultetetet, for å sikre studienes kvalitet og relevans.
+4. echo skal være et aktivt bindeledd mellom Våre studenter og næringslivet som har relevans i forbindelse med Instituttet.
 5. echo skal tilstrebe samarbeid med andre studentorganisasjoner.
 
 ## § 4 Rettigheter og plikter knyttet til medlemskapet
@@ -154,7 +176,7 @@ Hovedstyret skal sørge for at organisasjonens vedtekter opprettholdes.
 	1. ESC skal fungere som et bindeledd mellom flere idrettslag under echo, slik at det skal bli lettere å forme ulike idrettsgrupper.
 	2. ESC skal arrangere treninger og holde kurs.
 3. Gnist
-	1. Gnist arbeider med rekruttering og fullføring av studiet i samarbeid med Institutt for informatikk- og Det matematisk-naturvitenskapelige fakultet ved Universitetet i Bergen.
+	1. Gnist arbeider med rekruttering og fullføring av studiet i samarbeid med Instituttet og Fakultetet.
 	2. Gnist arrangerer diverse faglige og sosiale arrangementer for Våre studenter.
 4. Hyggkom
 	1. Hyggkom fokuserer på å skape trivsel på lesesalene våre.
@@ -181,7 +203,7 @@ Leder og ett annet styremedlem kan signere sammen.
 
 ## § 14 Oppløsning
 
-Oppløsning skjer dersom Linjeforeningen er uten styremedlemmer i mer enn 6 måneder. Eventuelle eiendeler skal da overføres til Institutt for informatikk ved UiB.
+Oppløsning skjer dersom Linjeforeningen er uten styremedlemmer i mer enn 6 måneder. Eventuelle eiendeler skal da overføres til Instituttet.
 
 ## § 15 Økonomi
 
