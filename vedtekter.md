@@ -20,6 +20,22 @@ I disse vedtektene betyr
 
    echo Programmerbar, org.nr.: 927307898.
 
+6. Hovedstyret
+
+   Hovedstyret er echo sin høyeste myndighet mellom generalforsamlingene.
+
+7. Folkevalgte
+
+   De representantene i Hovedstyret som velges gjennom preferansevalg.
+
+8. undergrupper-Rep
+
+   De representantene i Hovedstyret som velges fra en undergruppe.
+
+9. Verv-kamerat
+
+   Person med verv i samme undergruppe.
+
 ## § 1 Foreningens navn
 
 Foreningens offisielle navn er "echo - Linjeforeningen for informatikk". Foreningen kan i dagligtale og skriftlige referanser forkortes til "echo" (med liten e).
@@ -51,15 +67,15 @@ Foreningens offisielle navn er "echo - Linjeforeningen for informatikk". Forenin
 echo har ingen medlemskontingent.
 
 ## § 6 Hovedstyret
-Hovedstyret skal sørge for at organisasjonens vedtekter opprettholdes.
+Hovedstyret skal sørge for at echo sine vedtekter opprettholdes.
 
 1. Styret
 	
-	a. Hovedstyret består av de folkevalgte og én -1- representant fra hver av echos undergrupper.
+	a. Hovedstyret består av de folkevalgte og én -1- undergruppe-Rep fra hver av echo sine undergrupper.
 	
 	b. Det avholdes valg av representant internt i undergruppene etter valgresultatene før de folkevalgte er offentliggjort.
 	
-	c. En person kan ikke representere mer enn én -1- undergruppe. De folkevalgte kan ikke være representant for en undergruppe.
+	c. En person kan ikke være undergruppe-Rep for mer enn én -1- undergruppe. De folkevalgte kan ikke være undergruppe-Rep.
 	
 	d. Det er kun de folkevalgte som kan velges inn som leder, nestleder, økonomiansvarlig og økonomiassistent.
 
@@ -69,7 +85,7 @@ Hovedstyret skal sørge for at organisasjonens vedtekter opprettholdes.
 
 	a. Hovedstyret avgjør selv møtehyppigheten.
 
-	b. Hovedstyret er vedtaksdyktig dersom mer enn 50% av utvalgets medlemmer er tilstede.
+	b. Hovedstyret er vedtaksdyktig dersom mer enn 50% av Hovedsturet sine representanter er til stede.
 
 	c. Vedtak fattes ved simpelt flertall. Ved stemmelikhet har leder dobbeltstemme.
 
