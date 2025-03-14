@@ -66,6 +66,7 @@ Foreningens offisielle navn er "echo - Linjeforeningen for informatikk". Forenin
 3. echo skal være en effektiv representant for Våre studenter overfor Instituttet og Fakultetetet, for å sikre studienes kvalitet og relevans.
 4. echo skal være et aktivt bindeledd mellom Våre studenter og næringslivet som har relevans i forbindelse med Instituttet.
 5. echo skal tilstrebe samarbeid med andre studentorganisasjoner.
+6. echo skal tilby og drifte et makerspace.
 
 ## § 4 Rettigheter og plikter knyttet til medlemskapet
 1. Våre studenter har rett til å delta på generalforsamlinger, er stemmeberettigede og kan stille til valg i Hovedstyret.
@@ -209,12 +210,9 @@ Hovedstyret skal sørge for at echo sine vedtekter opprettholdes.
 	1. Hyggkom fokuserer på å skape trivsel på lesesalene våre.
 	2. Hyggkom har et overordnet ansvar for forvaltning av lesesalene våre.
 	3. Hyggkom har hovedansvar for feiring av diverse høytider.
-5. Makerspace
-	1. Makerspace har et overordnet ansvar for forvaltning av Makerspace-rommet.
-	2. Makerspace skal holde relevante kurs og arrangementer.
-6. Tilde
+5. Tilde
 	1. Tilde skal arrangere og gjennomføre sosiale arrangementer.
-7. Webkom
+6. Webkom
 	1. Webkom drifter og videreutvikler echo sine webløsninger, hovedsakelig nettsiden echo.uib.no
 	2. Webkom skal holde relevante kurs og arrangementer.
 
