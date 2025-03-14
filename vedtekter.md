@@ -199,11 +199,10 @@ Hovedstyrets hovedoppgave er å sørge for at echo sine vedtekter opprettholdes,
 
 ## § 9 Generalforsamling
 1. Generalforsamling er organisasjonens høyeste organ.
-2. Det innkalles til generalforsamling med minst to -2- ukers varsel.
-3. Generalforsamlingen skal ha en saksliste. Foreløpig saksliste skal gjøres kjent for Våre studenter samtidig med innkalling.
-4. Generalforsamlingen kan ikke behandle forslag som ikke er oppført på sakslisten, med
-   mindre det blir godkjent av et alminnelig flertall av de stemmeberettigede som er tilstede.
-5. Vedtak fattes med simpelt flertall av de stemmeberettigede som er tilstede, forutsatt at antall stemmeberettigede overstiger tyve -20-.
+2. Det innkalles til generalforsamling med minst to -2- ukers varsel. Det skal innkalles på echo sin nettside og plakater ved Instituttet.
+3. Generalforsamlingen skal ha en saksliste. Hovedstyret sin saksliste skal gjøres kjent for Våre studenter samtidig med innkalling.
+4. Generalforsamlingen kan ikke behandle forslag som ikke er oppført på sakslisten, med mindre det blir godkjent av et alminnelig flertall av de stemmeberettigede som er tilstede.
+5. Vedtak fattes med alminnelig flertall av de stemmeberettigede som er tilstede, forutsatt at antall stemmeberettigede overstiger tyve -20-.
 6. Forslag til saker som skal opp på generalforsamlingen må fremmes til Hovedstyret minst fire -4- virkedager før generalforsamlingen skal holdes.
 7. Tre -3- virkedager før generalforsamlingen skal endelig saksliste offentliggjøres.
 8. Ordinær generalforsamling
@@ -214,9 +213,9 @@ Hovedstyrets hovedoppgave er å sørge for at echo sine vedtekter opprettholdes,
 
 9. Ekstraordinær generalforsamling
 
-	a. Generalforsamling skal arrangeres når Hovedstyret mener at det foreligger saker eller situasjoner for Våre studenter som ikke kan utsettes til den årlige generalforsamling.
+	a. Ekstraordinær Generalforsamling skal arrangeres når Hovedstyret mener at det foreligger saker eller situasjoner for Våre studenter som ikke kan utsettes til den årlige ordinære generalforsamling.
 
-	b. Det kan også innkalles til generalforsamling når minst ti -10- personer krever det eller ett medlem av Hovedstyret krever det.
+	b. Det kan også innkalles til generalforsamling når minst ti -10- av Våre studenter krever det eller ett medlem av Hovedstyret krever det.
 
 ## § 10 Organisasjonsform
 1. echo er en frittstående juridisk person med medlemmer, og er selveiende. At echo er selveiende innebærer at ingen, verken medlemmer eller andre, har krav på echos formue eller eiendeler, eller er ansvarlig for gjeld eller andre forpliktelser.
