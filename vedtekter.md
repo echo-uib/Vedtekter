@@ -53,7 +53,7 @@ Hovedstyret skal sørge for at organisasjonens vedtekter opprettholdes.
 
 	c. Vedtak fattes ved simpelt flertall. Ved stemmelikhet har leder dobbeltstemme.
 
-	d. Alle Hovedstyrets møter skal protokollføres, og protokollen skal offentliggjøres. Protokollen skal offentliggjøres innen neste hovedstyremøte. Hovedstyret forbeholder seg retten til å unnta saker av sensitiv grad fra den offentlige protokollen, det skal inngå i referater at saker har blitt unntatt offentligheten.
+	d. Alle Hovedstyrets møter skal ha referater, og referatet skal offentliggjøres. Referatet skal offentliggjøres innen neste hovedstyremøte. Hovedstyret forbeholder seg retten til å unnta saker av sensitiv grad fra det offentlige referatet, det skal inngå i referatet at saker har blitt unntatt offentligheten.
 
 	e. En representant fra hver av echos undergrupper har møterett på Hovedstyrets møter.
 
@@ -122,12 +122,12 @@ Hovedstyret skal sørge for at organisasjonens vedtekter opprettholdes.
 ## § 9 Generalforsamling
 1. Generalforsamling er organisasjonens høyeste organ.
 2. Det innkalles til generalforsamling med minst to -2- ukers varsel.
-3. Generalforsamlingen skal ha en dagsorden. Foreløpig dagsorden skal gjøres kjent for Våre studenter samtidig med innkalling.
+3. Generalforsamlingen skal ha en saksliste. Foreløpig saksliste skal gjøres kjent for Våre studenter samtidig med innkalling.
 4. Generalforsamlingen kan ikke behandle forslag som ikke er oppført på sakslisten, med
    mindre det blir godkjent av et alminnelig flertall av de stemmeberettigede som er tilstede.
 5. Vedtak fattes med simpelt flertall av de stemmeberettigede som er tilstede, forutsatt at antall stemmeberettigede overstiger tyve -20-.
 6. Forslag til saker som skal opp på generalforsamlingen må fremmes til Hovedstyret minst fire -4- virkedager før generalforsamlingen skal holdes.
-7. Tre -3- virkedager før generalforsamlingen skal endelig dagsorden offentliggjøres.
+7. Tre -3- virkedager før generalforsamlingen skal endelig saksliste offentliggjøres.
 8. Ordinær generalforsamling
 
 	a. Det skal innkalles til minst én -1- generalforsamling i året, i forbindelse med §5 Valg
