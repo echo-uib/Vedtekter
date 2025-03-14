@@ -67,6 +67,7 @@ Foreningens offisielle navn er "echo - Linjeforeningen for informatikk". Forenin
 4. echo skal være et aktivt bindeledd mellom Våre studenter og næringslivet som har relevans i forbindelse med Instituttet.
 5. echo skal tilstrebe samarbeid med andre studentorganisasjoner.
 6. echo skal tilby og drifte et makerspace.
+7. echo skal forvalte lesesalene tilhørende Instituttet.
 
 ## § 4 Rettigheter og plikter knyttet til medlemskapet
 1. Våre studenter har rett til å delta på generalforsamlinger, er stemmeberettigede og kan stille til valg i Hovedstyret.
