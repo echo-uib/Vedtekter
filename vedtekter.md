@@ -166,29 +166,36 @@ Hovedstyrets hovedoppgave er å sørge for at echo sine vedtekter opprettholdes,
 
 ## § 8 Valg
 1. Det avholdes valg til Hovedstyret hver vår i forbindelse med generalforsamling. Her velges syv -7- kandidater gjennom preferansevalg.
-2. Valgresultat
+2. Algoritmen som blir brukt er single transferable vote (STV).
+3. Valgresultat
 
-	a. Valgresultatet skal offentliggjøres som en alfabetisk liste bestående av de folkevalgte. Liste over resterende kandidater som stilte til valg publiseres i alfabetisk rekkefølge.
+	a. Valgresultatet skal offentliggjøres som en alfabetisk liste bestående av de folkevalgte. Liste over resterende kandidater som stilte til valg skal publiseres i alfabetisk rekkefølge. Valgresultatet utover de folkevalgte er taushetsbelagt, og skal oppbevares av en tredjepart uavhengig av echo.
 
-	b. Valgresultatet utover de folkevalgte er taushetsbelagt, og skal oppbevares av en tredjepart uavhengig av echo.
+	b. Innsyn kan gis til personer i og utenfor Hovedstyret, og må vedtas med 2/3 kvalifisert flertall på et Hovedstyremøte. Disse personene er underlagt taushetsplikt. Dersom begjæringen om innsyn ikke vedtas av Hovedstyret, kan søker kreve at saken tas opp på neste generalforsamling.
 
-	c. Innsyn kan gis til personer i og utenfor Hovedstyret, og må vedtas med 2/3 kvalifisert flertall på styremøte. Disse personene er underlagt taushetsplikten. Dersom begjæringen om innsyn ikke vedtas av Hovedstyret, kan søker kreve at saken tas opp på neste generalforsamling.
+4. Gjennomføring av et valg
 
-3. Tidspunkter
+	a. Alle stemmeberettigede skal få instrukser på hvordan en kan stemme. Det skal være mulig å stemme i minst førtiåtte -48- timer.
+   
+	b. Resultatet av valget skal senest bli publisert en uke etter at det først er mulig å stemme. 
 
-	a. Det skal avholdes ordinær generalforsamling siste uken av februar, det kan flyttes opp til to -2- uker dersom Hovedstyret ser dette som hensiktsmessig.
-
-	b. Valget kan ikke være mer enn én -1- måned.
-
-	c. Det nye Hovedstyret trer i kraft fra og med én -1- måned etter valget, datoen kan flyttes opp til to -2- uker hvis Hovedstyret ser dette som hensiktsmessig.
+	c. Hovedstyret plikter seg til å promotere kandidater som har stilt til valg minst én -1- uke før stemmingen åpner.
 
 	d. Nåværende Hovedstyret blir sittende frem til det påfølgende Hovedstyret trer i kraft.
 
-4. Ekstraordinært
+5. Ordinært
 
-	a. Et ekstraordinært valg kan kun innkalles av en generalforsamling, eller gjennom (Mistillits paragraf)§ 7.3.
+	a. Det skal gjennomføres et ordinært valg per år.
 
-	b. Innvalgte fra et ekstraordinært valg blir det nye Hovedstyret.
+	b. Valget skal fullføres to -2- uker etter den ordinære generalforsamlingen, datoen kan flyttes opp til én -1- uke hvis Hovedstyret ser dette som hensiktsmessig.
+
+	c. Det nye Hovedstyret trer i kraft fra og med én -1- måned etter at valgresultatet er publisert, datoen kan flyttes opp til to -2- uker hvis Hovedstyret ser dette som hensiktsmessig.
+
+6. Ekstraordinært 
+
+	a. Et ekstraordinært valg kan kun innkalles av en generalforsamling, eller gjennom § 7 Mistillit.
+   
+	b. Det nye Hovedstyret trer i kraft innen to -2- uker etter at valgresultatet er publisert.
 
 ## § 9 Generalforsamling
 1. Generalforsamling er organisasjonens høyeste organ.
