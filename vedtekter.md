@@ -14,7 +14,7 @@ Studenter som oppfyller minst ett -1- av følgende punkter regnes som “Våre s
 
 1. echo har som hovedformål å ivareta og fremme interessene til Våre studenter.
 2. echo skal aktivt arbeide for å opprettholde og forbedre et høyt faglig og sosialt studiemiljø for Våre studenter.
-3. echo skal være en effektiv representant for Våre studenter ovenfor Institutt for informatikk og Det matematisk-naturvitenskapelige fakultet ved Universitetet i Bergen, for å sikre studienes kvalitet og relevans.
+3. echo skal være en effektiv representant for Våre studenter ovenfor Institutt for informatikk og Fakultetet for naturvitenskap og teknologi ved Universitetet i Bergen, for å sikre studienes kvalitet og relevans.
 4. echo skal være et aktivt bindeledd mellom Våre studenter og næringslivet som har relevans i forbindelse med Institutt for informatikk ved Universitetet i Bergen.
 5. echo skal tilstrebe samarbeid med andre studentorganisasjoner.
 
