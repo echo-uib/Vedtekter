@@ -130,29 +130,39 @@ Hovedstyrets hovedoppgave er å sørge for at echo sine vedtekter opprettholdes,
 
 1. Et mistillitsforslag kan fremmes dersom ett eller flere av følgende punkter er oppfylt
 
-	a. Personen(e) har vesentlig forsømt sine oppgaver som representant i hovedstyret.
+	a. Representanten(e) har vesentlig forsømt sine oppgaver som representant i Hovedstyret.
 
-	b. Personen(e) har brutt utvalgets vedtekter.
+	b. Representanten(e) har brutt echo sine vedtekter.
 
-	c. Personen(e) har brutt norsk lov iht. utføring av vervets oppgaver.
+	c. Representanten(e) har brutt norsk lov iht. utføring av vervets oppgaver.
 
-2. Mistillit mot ett -1- medlem i hovedstyret
+2. Gjennomføring og konsekvenser av mistillitsforslag
 
-	a. Et mistillitsforslag fremmes ved en skriftlig henvendelse til et hovedstyremedlem av en av Våre studenter.
+   a. Et mistillitsforslag fremmes ved en skriftlig henvendelse, med begrunnelse, til en representant i Hovedstyret.
+
+   b. Voteringen er anonym, og det er nødt til å være en nøytral tredjepart, som ikke er en del av echo, som teller stemmene.
+
+   c. Hvis mistillitsforslaget blir vedtatt mister representant(e) plassen sin i Hovedstyret. 
+
+	De som vedtok mistillitsforslaget er nødt til å bestemme hvordan representanten(e) blir erstattet.
+
+3. Mistillit mot én -1- representant i Hovedstyret
+
+	a. En av Våre studenter kan stille mistillitsforslag til en representant i Hovedstyret.
 
 	b. Hovedstyret er nødt til å behandle mistillitsforslaget innen to -2- uker.
 
-	c. Et slikt mistillitsforslag vil bli behandlet av hovedstyret på et hovedstyremøte. De involverte partene presenterer saken sin ved ønske, de involverte må forlate rommet under diskusjon og avstemming. Denne avstemningen er anonym, og det er nødt til å være en tredjepart, som ikke er en del av echo, som teller stemmene.
+	c. Et slikt mistillitsforslag vil bli behandlet av Hovedstyret på et Hovedstyremøte. De involverte partene presenterer saken sin ved ønske, de involverte må forlate rommet under diskusjon og avstemming. Denne avstemningen er anonym, og det er nødt til å være en tredjepart, som ikke er en del av echo, som teller stemmene.
 
 	d. Hvis mistillitsforslaget blir vedtatt med 2/3 kvalifisert flertall mister personen plassen sin i styret.
 
-3. Mistillitsforslag mot mer enn ett -1- medlem i hovedstyret
+4. Mistillitsforslag mot mer enn én -1- representant i Hovedstyret
 
-	a. Et mistillitsforslag fremmes ved en skriftlig henvendelse til et hovedstyremedlem med minst ti -10- unike signaturer og navn fra Våre studenter.
+	a. Ved ti -10- unike signaturer, med tilhørende navn, fra Våre studenter kan det bli stilt et mistillitsforslag til mer enn én -1- representant i Hovedstyret.
 
-	b. Dersom det fremmes mistillitsforslag mot mer enn ett -1- hovedstyremedlem skal det bli kalt inn til ekstraordinær generalforsamling i henhold til §9. Mistillitsforslaget vil være den eneste saken på sakslisten. Denne avstemningen er anonym.
+	b. Det skal da bli kalt inn til ekstraordinær generalforsamling i henhold til §9 Generalforsamling. Mistillitsforslaget vil være den eneste saken på sakslisten.
 
-	c. Hvis mistillitsforslaget blir vedtatt med simpelt flertall, skal det bli avholdt ekstraordinært valg i henhold til § 8.4. Hovedstyret er nødt til å gå av innen to -2- uker.
+   c. Det kreves alminnelig flertall blant de tilstedeværende stemmeberettigede for at mistillitsforslaget blir vedtatt.
 
 ## § 8 Valg
 1. Det avholdes valg til Hovedstyret hver vår i forbindelse med generalforsamling. Her velges syv -7- kandidater gjennom preferansevalg.
