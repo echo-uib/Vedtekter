@@ -174,7 +174,7 @@ Leder og ett annet styremedlem kan signere sammen.
 ## § 13 Vedtektsendring
 
 1. Disse vedtektene gjelder fra 7/11-95. Den sittende linjeforening har ansvaret for iverksettelsen av disse vedtektene. Disse vedtektene kan kun endres på en generalforsamling ved Institutt for informatikk på Universitetet i Bergen. Et vedtak om en endring må ha oppnådd 2/3 flertall blant de tilstedeværende stemmeberettigede.
-2. Vedtektene ble sist endret ved generalforsamling 27.02.2023.
+2. Vedtektene ble sist endret ved generalforsamling 04.03.2024.
 3. Hovedstyret har til enhver tid myndighet til å gjøre redaksjonelle endringer i echo sine vedtekter. En redaksjonell endring er en endring vedrørende grammatikk, struktur eller ordlyd som ikke forandrer på meningen eller innholdet i originalteksten. Eventuelle endringer må protokollføres, og informeres om under neste generalforsamling.
 
 ## § 14 Oppløsning
