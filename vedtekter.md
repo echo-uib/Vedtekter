@@ -224,6 +224,21 @@ Hovedstyrets hovedoppgave er å sørge for at echo sine vedtekter opprettholdes,
 4. echo har “echo Programmerbar” som underorganisasjon. Leder i Hovedstyret og Programmerbar har gjensidig møterett i styremøtene til hverandre. Leder i de respetive organisasjonene kan utnevne en stedfortreder.
 
 ## § 11 Undergrupper
+
+Opptak:
+
+	1. Våre studenter skal informeres minst én -1- uke før søknadsfristen for opptak til verv i en undergruppe.
+
+	2. Medlemmer kan gjenoppta sine verv i en undergruppe etter fravær grunnet ekstraordinære omstendigheter eller utveksling. Gjenopptakelsen må godkjennes av styret til undergruppen.
+
+   Rettigheter:
+
+	1. Leder for en undergruppe har rett til å avsette medlemmer. Før dette skjer, skal vedkommende motta en skriftlig advarsel. Hovedstyret skal informeres om avsettelsen.
+
+	2. Medlemmer som har blitt avsatt, har rett til å anke til Hovedstyret.
+
+echo sine undergrupper, og deres formål:
+
 1. Bedriftskomitéen (Bedkom)
 	1. Bedkom skal tilby hjelp med planlegging, markedsføring og organisering av ulike arrangementer for bedrifter i samråd med hovedstyret.
 	2. Bedkom skal bedre relasjonen mellom Våre studenter og næringslivet.
@@ -245,6 +260,7 @@ Hovedstyrets hovedoppgave er å sørge for at echo sine vedtekter opprettholdes,
 	3. Hyggkom har hovedansvar for feiring av diverse høytider.
 6. Tilde
 	1. Tilde skal arrangere og gjennomføre sosiale arrangementer.
+    2. Tilde har ansvar for å arrangere vinterball.
 7. Webkom
 	1. Webkom drifter og videreutvikler echo sine webløsninger, hovedsakelig nettsiden echo.uib.no
 	2. Webkom skal holde relevante kurs og arrangementer.
