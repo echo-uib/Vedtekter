@@ -123,15 +123,17 @@ Hovedstyret skal sørge for at organisasjonens vedtekter opprettholdes.
 1. Generalforsamling er organisasjonens høyeste organ.
 2. Det innkalles til generalforsamling med minst to -2- ukers varsel.
 3. Generalforsamlingen skal ha en dagsorden. Foreløpig dagsorden skal gjøres kjent for Våre studenter samtidig med innkalling.
-4. Vedtak fattes med simpelt flertall av de stemmeberettigede som er tilstede, forutsatt at antall stemmeberettigede overstiger tyve -20-.
-5. Forslag til saker som skal opp på generalforsamlingen må fremmes til Hovedstyret minst fire -4- virkedager før generalforsamlingen skal holdes.
-6. Tre -3- virkedager før generalforsamlingen skal endelig dagsorden offentliggjøres.
-7. Ordinær generalforsamling
+4. Generalforsamlingen kan ikke behandle forslag som ikke er oppført på sakslisten, med
+   mindre det blir godkjent av et alminnelig flertall av de stemmeberettigede som er tilstede.
+5. Vedtak fattes med simpelt flertall av de stemmeberettigede som er tilstede, forutsatt at antall stemmeberettigede overstiger tyve -20-.
+6. Forslag til saker som skal opp på generalforsamlingen må fremmes til Hovedstyret minst fire -4- virkedager før generalforsamlingen skal holdes.
+7. Tre -3- virkedager før generalforsamlingen skal endelig dagsorden offentliggjøres.
+8. Ordinær generalforsamling
 
 	a. Det skal innkalles til minst én -1- generalforsamling i året, i forbindelse med §5 Valg
 
 	b. Generalforsamlingen skal gjennomgå forvaltningen av organisasjonens økonomi.
-8. Ekstraordinær generalforsamling
+9. Ekstraordinær generalforsamling
 
 	a. Generalforsamling skal arrangeres når Hovedstyret mener at det foreligger saker eller situasjoner for Våre studenter som ikke kan utsettes til den årlige generalforsamling.
 
