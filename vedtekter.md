@@ -201,19 +201,24 @@ Hovedstyret skal sørge for at echo sine vedtekter opprettholdes.
 	1. Bedkom skal tilby hjelp med planlegging, markedsføring og organisering av ulike arrangementer for bedrifter i samråd med hovedstyret.
 	2. Bedkom skal bedre relasjonen mellom Våre studenter og næringslivet.
 	3. Bedkom har ansvar for å arrangere bedriftstur.
-2. echo Sports Club (ESC)
+2. echo Consulting
+   1. echo Consulting skal utvikle webløsninger for eksterne organisasjoner, primært
+      frivillige- og studentorganisasjoner.
+      2. echo Consulting skal bidra til et sterkt fagmiljø blant Våre studenter, med blant annet
+         arrangementer eller relevante kurs.
+3. echo Sports Club (ESC)
 	1. ESC skal fungere som et bindeledd mellom flere idrettslag under echo, slik at det skal bli lettere å forme ulike idrettsgrupper.
 	2. ESC skal arrangere treninger og holde kurs.
-3. Gnist
+4. Gnist
 	1. Gnist arbeider med rekruttering og fullføring av studiet i samarbeid med Instituttet og Fakultetet.
 	2. Gnist arrangerer diverse faglige og sosiale arrangementer for Våre studenter.
-4. Hyggkom
+5. Hyggkom
 	1. Hyggkom fokuserer på å skape trivsel på lesesalene våre.
 	2. Hyggkom har et overordnet ansvar for forvaltning av lesesalene våre.
 	3. Hyggkom har hovedansvar for feiring av diverse høytider.
-5. Tilde
+6. Tilde
 	1. Tilde skal arrangere og gjennomføre sosiale arrangementer.
-6. Webkom
+7. Webkom
 	1. Webkom drifter og videreutvikler echo sine webløsninger, hovedsakelig nettsiden echo.uib.no
 	2. Webkom skal holde relevante kurs og arrangementer.
 
