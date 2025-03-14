@@ -81,19 +81,21 @@ Foreningens offisielle navn er "echo - Linjeforeningen for informatikk". Forenin
 echo har ingen medlemskontingent.
 
 ## § 6 Hovedstyret
-Hovedstyret skal sørge for at echo sine vedtekter opprettholdes.
+Hovedstyrets hovedoppgave er å sørge for at echo sine vedtekter opprettholdes, og skal gjennomføre vedtak fattet av generalforsamlingen.
 
 1. Styret
 	
 	a. Hovedstyret består av de folkevalgte og én -1- undergruppe-Rep fra hver av echo sine undergrupper.
 	
-	b. Det avholdes valg av representant internt i undergruppene etter valgresultatene før de folkevalgte er offentliggjort.
+	b. I forbindelse med det ordinære valget skal det velges en undergrupper-rep fra hver undergruppe. undergrupper-Rep skal velges etter offentliggjøringen av valgresultatet, og senest innen én - 1 - uke.
 	
 	c. En person kan ikke være undergruppe-Rep for mer enn én -1- undergruppe. De folkevalgte kan ikke være undergruppe-Rep.
 	
-	d. Det er kun de folkevalgte som kan velges inn som leder, nestleder, økonomiansvarlig og økonomiassistent.
+	d. Det er kun de folkevalgte som kan velges inn som leder, nestleder, økonomiansvarlig.
 
-	e. Hvis noen av kandidatene som blir valgt inn som hovedstyremedlem sitter i en undergruppe kan vedkomne selv velge å ta pause fra vervet sitt i undergruppen. Representanten kan returnere til vervet sitt etter styreperioden er over. Representanten skal bli invitert til sosiale sammenkomster i undergruppen.
+	e. Hovedstyret oppretter roller etter behov.
+
+	f. Hovedstyret kan ved alminnelig flertall avsette en leder fra en undergruppe.
 
 2. Styremøte
 
