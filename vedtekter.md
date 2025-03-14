@@ -111,11 +111,20 @@ Hovedstyrets hovedoppgave er å sørge for at echo sine vedtekter opprettholdes,
 
 	f. undergrupper-Rep kan gi fullmakt til verv-kamerat for å stemme.
 
-3. Vervet
+3. Frafall 
 
-	a. Representanter kan trekke seg fra sitt verv i Hovedstyret dersom det er særskilt grunn.
+	a. Representant(er) i Hovedstyret kan trekke seg fra vervet dersom det er en særskilt grunn. 
 
-	b. Hvis en representant trekker seg fra Hovedstyrets kandidatliste, skal valgalgoritmen kjøres på nytt igjen med stemmene fra foregående valg. Personen som trakk seg fjernes fra stemmesedlene, og kandidater med lavere rangering enn den som trakk seg vil da rykke opp. I det tilfelle der det nye resultatet har mer enn ett nytt styremedlem vil stemmene på alle andre kandidater enn de aktuelle personene fjernes. En kjører så algoritmen en tredje gang der kun én kandidat utnevnes. Denne kandidaten overtar for personen som trakk seg.
+	b. Representant(er) i Hovedstyret må trekke seg fra vervet i henhold til §7 Mistillit.
+4. Konsekvenser ved frafall.
+
+	a. Hvis en undergrupper-Rep fratrer som representant i Hovedstyret skal det avholdes nytt internt valg i undergruppen innen én -1- uke etter frafallet.
+
+	b. Ved frafall fra Hovedstyret kjøres valgalgoritmen igjen, med de samme stemmene som ved forrige valg. Representantene som har meldt frafall fjernes fra stemmesedlene.
+
+	Dersom resultatet gir flere nye kandidater enn ledige plasser, kjøres valgalgoritmen nok en gang; Kun med kandidatene som kvalifiserte seg til Hovedstyret i det nye valget, og som ikke allerede sitter i hovedstyret.
+
+	Resultatet av dette er de nye folkevalgte.
 
 ## § 7 Mistillit
 
