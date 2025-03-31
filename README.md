@@ -21,3 +21,7 @@ Derfor håper jeg på at dere videre kan finne på noe nytt for å effektivisere
 Takk for meg.
 
 \- Stian
+
+> I approve this message
+
+\-- Arne
