@@ -227,15 +227,15 @@ Hovedstyrets hovedoppgave er å sørge for at echo sine vedtekter opprettholdes,
 
 Opptak:
 
-	1. Våre studenter skal informeres minst én -1- uke før søknadsfristen for opptak til verv i en undergruppe.
+1. Våre studenter skal informeres minst én -1- uke før søknadsfristen for opptak til verv i en undergruppe.
 
-	2. Medlemmer kan gjenoppta sine verv i en undergruppe etter fravær grunnet ekstraordinære omstendigheter eller utveksling. Gjenopptakelsen må godkjennes av styret til undergruppen.
+2. Medlemmer kan gjenoppta sine verv i en undergruppe etter fravær grunnet ekstraordinære omstendigheter eller utveksling. Gjenopptakelsen må godkjennes av styret til undergruppen.
 
-   Rettigheter:
+Rettigheter:
 
-	1. Leder for en undergruppe har rett til å avsette medlemmer. Før dette skjer, skal vedkommende motta en skriftlig advarsel. Hovedstyret skal informeres om avsettelsen.
+1. Leder for en undergruppe har rett til å avsette medlemmer. Før dette skjer, skal vedkommende motta en skriftlig advarsel. Hovedstyret skal informeres om avsettelsen.
 
-	2. Medlemmer som har blitt avsatt, har rett til å anke til Hovedstyret.
+2. Medlemmer som har blitt avsatt, har rett til å anke til Hovedstyret.
 
 echo sine undergrupper, og deres formål:
 
@@ -246,7 +246,7 @@ echo sine undergrupper, og deres formål:
 2. echo Consulting
    1. echo Consulting skal utvikle webløsninger for eksterne organisasjoner, primært
       frivillige- og studentorganisasjoner.
-      2. echo Consulting skal bidra til et sterkt fagmiljø blant Våre studenter, med blant annet
+   2. echo Consulting skal bidra til et sterkt fagmiljø blant Våre studenter, med blant annet
          arrangementer eller relevante kurs.
 3. echo Sports Club (ESC)
 	1. ESC skal fungere som et bindeledd mellom flere idrettslag under echo, slik at det skal bli lettere å forme ulike idrettsgrupper.
