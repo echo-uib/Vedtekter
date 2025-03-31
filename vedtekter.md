@@ -28,7 +28,7 @@ I disse vedtektene betyr
 
    De representantene i Hovedstyret som velges gjennom preferansevalg.
 
-8. undergrupper-Rep
+8. UG-Rep
 
    De representantene i Hovedstyret som velges fra en undergruppe.
 
@@ -87,7 +87,7 @@ Hovedstyrets hovedoppgave er å sørge for at echo sine vedtekter opprettholdes,
 	
 	a. Hovedstyret består av de folkevalgte og én -1- undergruppe-Rep fra hver av echo sine undergrupper.
 	
-	b. I forbindelse med det ordinære valget skal det velges en undergrupper-rep fra hver undergruppe. undergrupper-Rep skal velges etter offentliggjøringen av valgresultatet, og senest innen én - 1 - uke.
+	b. I forbindelse med det ordinære valget skal det velges en UG-Rep fra hver undergruppe. UG-Rep skal velges etter offentliggjøringen av valgresultatet, og senest innen én - 1 - uke.
 	
 	c. En person kan ikke være undergruppe-Rep for mer enn én -1- undergruppe. De folkevalgte kan ikke være undergruppe-Rep.
 	
@@ -101,7 +101,7 @@ Hovedstyrets hovedoppgave er å sørge for at echo sine vedtekter opprettholdes,
 
 	a. Hovedstyret avgjør selv møtehyppigheten.
 
-	b. Hovedstyret er vedtaksdyktig dersom mer enn 50% av Hovedsturet sine representanter er til stede.
+	b. Hovedstyret er vedtaksdyktig dersom mer enn 50% av Hovedstyret sine representanter er til stede.
 
 	c. Vedtak fattes ved simpelt flertall. Ved stemmelikhet har leder dobbeltstemme.
 
@@ -109,7 +109,7 @@ Hovedstyrets hovedoppgave er å sørge for at echo sine vedtekter opprettholdes,
 
 	e. En representant fra hver av echos undergrupper har møterett på Hovedstyrets møter.
 
-	f. undergrupper-Rep kan gi fullmakt til verv-kamerat for å stemme.
+	f. UG-Rep kan gi fullmakt til verv-kamerat for å stemme.
 
 3. Frafall 
 
@@ -118,7 +118,7 @@ Hovedstyrets hovedoppgave er å sørge for at echo sine vedtekter opprettholdes,
 	b. Representant(er) i Hovedstyret må trekke seg fra vervet i henhold til §7 Mistillit.
 4. Konsekvenser ved frafall.
 
-	a. Hvis en undergrupper-Rep fratrer som representant i Hovedstyret skal det avholdes nytt internt valg i undergruppen innen én -1- uke etter frafallet.
+	a. Hvis en UG-Rep fratrer som representant i Hovedstyret skal det avholdes nytt internt valg i undergruppen innen én -1- uke etter frafallet.
 
 	b. Ved frafall fra Hovedstyret kjøres valgalgoritmen igjen, med de samme stemmene som ved forrige valg. Representantene som har meldt frafall fjernes fra stemmesedlene.
 
