@@ -28,4 +28,4 @@ Takk for meg.
 
 > Word
 
-\-- Karo
+\--- Karo
