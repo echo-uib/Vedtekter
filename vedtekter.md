@@ -18,35 +18,47 @@ I disse vedtektene betyr
 
    Fakultet for naturvitenskap og teknologi ved Universitetet i Bergen.
 
-5. Programmerbar
-
-   echo Programmerbar, org.nr.: 927307898.
-
-6. Hovedstyret
+5. Hovedstyret
 
    echo sin høyeste myndighet mellom generalforsamlingene.
 
-7. Folkevalgte
+6. Folkevalgte
 
    representantene i Hovedstyret som velges gjennom preferansevalg.
 
-8. UG-Rep
+7. UG-Rep
 
    representantene i Hovedstyret som velges fra en undergruppe.
 
-9. Verv-kamerat
+8. Undergruppe
 
-   Person med verv i samme undergruppe.
+   Gruppe opprettet under echo for å utføre aktiviteter eller oppgaver innenfor linjeforeningens virksomhet, og som er organisatorisk underlagt echo.
 
-10. Simpelt flertall
+9. Interessegruppe
+
+   Gruppe tilknyttet echo som samler medlemmer rundt en felles interesse eller aktivitet, uten formelt organisatorisk ansvar eller direkte representasjon i Hovedstyret.
+
+10. Underorganisasjon
+
+    Juridisk selvstendig organisasjon med egen økonomi og eget organisasjonsnummer, som er organisatorisk tilknyttet echo i henhold til §10.
+
+11. Programmerbar
+
+    echo Programmerbar, org.nr.: 927307898.
+
+12. Verv-kamerat
+
+    Person med verv i samme undergruppe.
+
+13. Simpelt flertall
 
     Avstemming hvor forslag med flest stemmer blir vedtatt.
 
-11. Alminnelig flertall
+14. Alminnelig flertall
 
     Avstemming hvor et forslag med mer enn 50% av stemmene blir vedtatt.
 
-12. 2/3 kvalifisert flertall
+15. 2/3 kvalifisert flertall
 
     Avstemming hvor et forslag med mer enn ⅔ av stemmene blir vedtatt.
 
@@ -57,8 +69,8 @@ Foreningens offisielle navn er "echo - Linjeforeningen for informatikk". Forenin
 ## § 2 Medlemmer
 
 1. Programstudenter ved Instituttet.
-2. Post-bachelorstudenter og post-masterstudenter som tidligere har vært programstudenter ved Instituttet, som har betalt semesteravgift og tar emne(r).
-3. Ph.d.-kandidater ved Instituttet som tidligere har vært programstudenter ved Instituttet. Ved gode grunner kan hovedstyret tillate andre Ph.d.-kandidater.
+2. Post-bachelorstudenter og post-masterstudenter som tidligere har vært programstudenter ved Instituttet, som har betalt semesteravgift til Universitetet i Bergen inneværende semester.
+3. Ph.d.-kandidater ved Instituttet som tidligere har vært programstudenter ved Instituttet, og andre Ph.d.-kandidater ved Instituttet som har fått godkjent en søknad av Hovedstyret.
 4. Studenter som har fått godkjent en søknad av Hovedstyret, gitt at de tar hovedemner ved Instituttet.
 5. Utvekslingsstudenter som tar hovedemner ved Instituttet.
 
@@ -85,7 +97,13 @@ Foreningens offisielle navn er "echo - Linjeforeningen for informatikk". Forenin
 
 echo har ingen medlemskontingent.
 
-## § 6 Hovedstyret
+## § 6 Taushetsplikt
+
+a. Personer som gjennom verv, rolle eller ved vedtak gis tilgang til fortrolig informasjon om echo, er underlagt taushetsplikt.
+b. Taushetsplikten omfatter opplysninger knyttet til enkeltpersoner, valgprosesser, økonomi eller organisasjonens virksomhet som ikke er offentlig tilgjengelige.
+c. Brudd på taushetsplikten anses som et alvorlig tillitsbrudd og kan behandles etter vedtektenes bestemmelser om §7 Mistillit.
+
+## § 7 Hovedstyret
 
 Hovedstyrets hovedoppgave er å sørge for at echo sine vedtekter opprettholdes, samt gjennomføre vedtak fattet av generalforsamlingen.
 
@@ -93,15 +111,13 @@ Hovedstyrets hovedoppgave er å sørge for at echo sine vedtekter opprettholdes,
 
    a. Hovedstyret består av de Folkevalgte og én (1) UG-Rep fra hver av echo sine undergrupper.
 
-   b. I forbindelse med det ordinære valget skal det velges en UG-Rep fra hver undergruppe. UG-Rep skal velges etter offentliggjøringen av valgresultatet, og senest innen én (1) uke.
+   b. En person kan ikke være UG-Rep for mer enn én (1) undergruppe. De Folkevalgte kan ikke være UG-Rep.
 
-   c. En person kan ikke være UG-Rep for mer enn én (1) undergruppe. De Folkevalgte kan ikke være UG-Rep.
+   c. Det er kun de Folkevalgte som kan velges inn som leder, nestleder, økonomiansvarlig, tillitsvalgt.
 
-   d. Det er kun de Folkevalgte som kan velges inn som leder, nestleder, økonomiansvarlig.
+   d. Hovedstyret oppretter roller etter behov.
 
-   e. Hovedstyret oppretter roller etter behov.
-
-   f. Hovedstyret kan ved Alminnelig flertall avsette en leder fra en undergruppe.
+   e. Hovedstyret kan ved Alminnelig flertall avsette en leder fra en undergruppe.
 
 2. Styremøte
 
@@ -127,13 +143,19 @@ Hovedstyrets hovedoppgave er å sørge for at echo sine vedtekter opprettholdes,
 
    a. Hvis en UG-Rep fratrer som representant i Hovedstyret skal det avholdes nytt internt valg i undergruppen innen én (1) uke etter frafallet.
 
-   b. Ved frafall fra Hovedstyret kjøres valgalgoritmen igjen, med de samme stemmene som ved forrige valg. Representantene som har meldt frafall fjernes fra stemmesedlene.
+   b. Ved frafall av en Folkevalgt kjøres valgalgoritmen igjen, med de samme stemmene som ved forrige valg. Representantene som har meldt frafall fjernes fra stemmesedlene.
 
    Dersom resultatet gir flere nye kandidater enn ledige plasser, kjøres valgalgoritmen nok en gang; Kun med kandidatene som kvalifiserte seg til Hovedstyret i det nye valget, og som ikke allerede sitter i hovedstyret.
 
    Resultatet av dette er de nye Folkevalgte.
 
-## § 7 Mistillit
+5. Kontor
+   a. Hovedstyret er tildelt et kontor av Instituttet.
+   b. echo sitt kontor skal omtales som echokammeret.
+   c. Alle medlemmer av Hovedstyret har rett til å oppholde seg på echokammeret.
+   d. Våre studenter som tidligere har vært medlem av Hovedstyret har tilgang til echokammeret, men opphold og bruk blir prioritert under det sittende Hovedstyret.
+
+## § 8 Mistillit
 
 1. Et mistillitsforslag kan fremmes dersom ett eller flere av følgende punkter er oppfylt
 
@@ -151,7 +173,7 @@ Hovedstyrets hovedoppgave er å sørge for at echo sine vedtekter opprettholdes,
 
    c. Hvis mistillitsforslaget blir vedtatt mister representanten(e) plassen sin i Hovedstyret.
 
-   De som vedtok mistillitsforslaget er nødt til å bestemme hvordan representanten(e) blir erstattet.
+   d. Ved vedtak av mistillitsforslaget, blir representanten(e) erstattet i tråd med §6.4 Konsekvenser ved frafall
 
 3. Mistillit mot én (1) representant i Hovedstyret
 
@@ -167,31 +189,33 @@ Hovedstyrets hovedoppgave er å sørge for at echo sine vedtekter opprettholdes,
 
    a. Ved ti (10) unike signaturer, med tilhørende navn, fra Våre studenter kan det bli stilt et mistillitsforslag til mer enn én (1) representant i Hovedstyret.
 
-   b. Det skal da bli kalt inn til ekstraordinær generalforsamling i henhold til §9 Generalforsamling. Mistillitsforslaget vil være den eneste saken på sakslisten.
+   b. Det skal da bli kalt inn til ekstraordinær generalforsamling i henhold til §9 Generalforsamling. Mistillitsforslaget vil være den eneste saken på sakslisten, og det vil bli avholdt en votering.
 
    c. Det kreves Alminnelig flertall blant de tilstedeværende stemmeberettigede for at mistillitsforslaget blir vedtatt.
 
-## § 8 Valg
+## § 9 Valg
 
-1. Det avholdes valg til Hovedstyret hver vår i forbindelse med generalforsamling. Her velges syv (7) kandidater gjennom et preferansevalg.
+1. Det avholdes valg til Hovedstyret hver vår i forbindelse med generalforsamling. Her velges syv (7) styremedlemmer gjennom et preferansevalg.
 2. Algoritmen for preferansevalg som blir brukt er single transferable vote (STV).
-3. Valgresultat
+3. I forbindelse med det ordinære valget skal det velges en UG-Rep fra hver undergruppe. UG-Rep skal velges etter offentliggjøringen av valgresultatet, og senest innen én (1) uke.
+4. Valgresultat
 
-   a. Valgresultatet skal offentliggjøres som en alfabetisk liste bestående av de Folkevalgte. Liste over resterende kandidater som stilte til valg skal publiseres i alfabetisk rekkefølge. Valgresultatet utover de Folkevalgte er taushetsbelagt, og skal oppbevares av en tredjepart uavhengig av echo.
+   a. Valgresultatet skal offentliggjøres som en alfabetisk liste bestående av de folkevalgte. Liste over resterende kandidater som stilte til valg skal publiseres i alfabetisk rekkefølge.
+   b. Valgresultatet utover de folkevalgte skal være taushetsbelagt og oppbevares av en tredjepart uavhengig av echo.
+   c. Innsyn kan gis til personer i og utenfor Hovedstyret, og må vedtas med 2/3 kvalifisert flertall på et Hovedstyremøte. Dersom begjæringen om innsyn ikke vedtas av Hovedstyret, kan søker kreve at saken tas opp på neste generalforsamling.
+   d. Personer som gis innsyn etter punkt c er underlagt §6 Taushetsplikt.
 
-   b. Innsyn kan gis til personer i og utenfor Hovedstyret, og må vedtas med 2/3 kvalifisert flertall på et Hovedstyremøte. Disse personene er underlagt taushetsplikt. Dersom begjæringen om innsyn ikke vedtas av Hovedstyret, kan søker kreve at saken tas opp på neste generalforsamling.
+5. Gjennomføring av et valg
 
-4. Gjennomføring av et valg
-
-   a. Alle stemmeberettigede skal få instrukser på hvordan en kan stemme. Det skal være mulig å stemme i minst førtiåtte (48) timer.
+   a. Alle stemmeberettigede skal få instrukser på hvordan en kan stemme. Det skal være mulig å stemme i minst to (2) virkedager.
 
    b. Resultatet av valget skal senest bli publisert én (1) uke etter at det først er mulig å stemme.
 
-   c. Hovedstyret plikter seg til å promotere kandidater som har stilt til valg minst én (1) uke før stemmingen åpner.
+   c. Hovedstyret plikter seg til å promotere alle kandidater som har stilt til valg minst én (1) uke før stemmingen åpner.
 
    d. Nåværende Hovedstyret blir sittende frem til det påfølgende Hovedstyret trer i kraft.
 
-5. Ordinært
+6. Ordinært
 
    a. Det skal gjennomføres et ordinært valg per år.
 
@@ -199,21 +223,21 @@ Hovedstyrets hovedoppgave er å sørge for at echo sine vedtekter opprettholdes,
 
    c. Det nye Hovedstyret trer i kraft fra og med én (1) måned etter at valgresultatet er publisert, datoen kan flyttes opp til to (2) uker hvis Hovedstyret ser dette som hensiktsmessig.
 
-6. Ekstraordinært
+7. Ekstraordinært
 
    a. Et ekstraordinært valg kan kun innkalles av en generalforsamling, eller gjennom § 7 Mistillit.
 
    b. Det nye Hovedstyret trer i kraft innen to (2) uker etter at valgresultatet er publisert.
 
-## § 9 Generalforsamling
+## § 10 Generalforsamling
 
 1. Generalforsamling er organisasjonens høyeste organ.
 2. Det innkalles til generalforsamling med minst to (2) ukers varsel. Det skal innkalles på echo sin nettside og plakater ved Instituttet.
 3. Generalforsamlingen skal ha en saksliste. Hovedstyret sin saksliste skal gjøres kjent for Våre studenter samtidig med innkalling.
-4. Generalforsamlingen kan ikke behandle forslag som ikke er oppført på sakslisten, med mindre det blir godkjent av et Alminnelig flertall av de stemmeberettigede som er tilstede.
-5. Vedtak fattes med Alminnelig flertall av de stemmeberettigede som er tilstede, forutsatt at antall stemmeberettigede overstiger tyve (20).
-6. Forslag til saker som skal opp på generalforsamlingen må fremmes til Hovedstyret minst fire (4) virkedager før generalforsamlingen skal holdes.
-7. Tre (3) virkedager før generalforsamlingen skal endelig saksliste offentliggjøres.
+4. Forslag til saker som skal opp på generalforsamlingen må fremmes til Hovedstyret minst fire (4) virkedager før generalforsamlingen skal holdes.
+5. Tre (3) virkedager før generalforsamlingen skal endelig saksliste offentliggjøres.
+6. Generalforsamlingen kan ikke behandle forslag som ikke er oppført på sakslisten, med mindre det blir godkjent av et Alminnelig flertall av de stemmeberettigede som er tilstede.
+7. Vedtak fattes med Alminnelig flertall av de stemmeberettigede som er tilstede, forutsatt at antall stemmeberettigede overstiger tyve (20).
 8. Ordinær generalforsamling
 
    a. Det skal avholdes ordinær generalforsamling siste uken av februar, det kan flyttes opp til to (2) uker dersom Hovedstyret ser dette som hensiktsmessig.
@@ -224,16 +248,18 @@ Hovedstyrets hovedoppgave er å sørge for at echo sine vedtekter opprettholdes,
 
    a. Ekstraordinær Generalforsamling skal arrangeres når Hovedstyret mener at det foreligger saker eller situasjoner for Våre studenter som ikke kan utsettes til den årlige ordinære generalforsamling.
 
-   b. Det kan også innkalles til generalforsamling når minst ti (10) av Våre studenter krever det eller ett medlem av Hovedstyret krever det.
+   b. Det kan også innkalles til generalforsamling når minst ti (10) av Våre studenter krever det.
 
-## § 10 Organisasjonsform
+## § 11 Organisasjonsform
 
 1. echo er en frittstående juridisk person med medlemmer, og er selveiende. At echo er selveiende innebærer at ingen, verken medlemmer eller andre, har krav på echos formue eller eiendeler, eller er ansvarlig for gjeld eller andre forpliktelser.
 2. echo har undergrupper som bidrar hovedsakelig til å opprettholde § 3 Formål. echos undergrupper og deres relevante fagområder er definert i § 11 Undergrupper.
 3. echos undergrupper skal kun bestå av Våre studenter.
 4. echo har Programmerbar som underorganisasjon. Leder i Hovedstyret og Programmerbar har gjensidig møterett i styremøtene til hverandre. Leder i de respektive organisasjonene kan utnevne en stedfortreder.
+5. Hovedstyret og Programmerbar skal informere hverandre om tidspunkt for styremøter i rimelig tid.
+6. echo kan opprette interessegrupper tilknyttet organisasjonen. Opprettelse og avvikling av interessegrupper fastsettes av Hovedstyret.
 
-## § 11 Undergrupper
+## § 12 Undergrupper
 
 Opptak:
 
@@ -256,11 +282,9 @@ echo sine undergrupper, og deres formål:
 2. echo Consulting
    1. echo Consulting skal utvikle webløsninger for eksterne organisasjoner, primært
       frivillige- og studentorganisasjoner.
-   2. echo Consulting skal bidra til et sterkt fagmiljø blant Våre studenter, med blant annet
-      arrangementer eller relevante kurs.
 3. echo Sports Club (ESC)
    1. ESC skal fungere som et bindeledd mellom flere idrettslag under echo, slik at det skal bli lettere å forme ulike idrettsgrupper.
-   2. ESC skal arrangere treninger og holde kurs.
+   2. ESC skal arrangere treninger og sportsarrangementer.
 4. Gnist
    1. Gnist arbeider med rekruttering og fullføring av studiet i samarbeid med Instituttet og Fakultetet.
    2. Gnist arrangerer diverse faglige og sosiale arrangementer for Våre studenter.
@@ -273,26 +297,27 @@ echo sine undergrupper, og deres formål:
    2. Tilde har ansvar for å arrangere vinterball.
 7. Webkom
    1. Webkom drifter og videreutvikler echo sine webløsninger, hovedsakelig nettsiden echo.uib.no
-   2. Webkom skal holde relevante kurs og arrangementer.
+   2. Webkom skal strebe etter å holde relevante kurs og arrangementer.
 
-## § 12 Signaturrett
+## § 13 Signaturrett
 
-Leder og ett (1) annet styremedlem kan signere sammen.
+Leder og ett (1) annet styremedlem av Hovedstyret har signaturrett i fellesskap.
 
-## § 13 Vedtektsendring
+## § 14 Vedtektsendring
 
 1. Disse vedtektene gjelder fra 7/11-95. Det sittende Hovedstyret har ansvaret for iverksettelsen av disse vedtektene. Disse vedtektene kan kun endres på en generalforsamling ved Instituttet. Et vedtak om en endring må ha oppnådd 2/3 kvalifisert flertall blant de tilstedeværende stemmeberettigede.
 2. Vedtektene ble sist endret ved generalforsamling 05.03.2025.
 3. Hovedstyret har til enhver tid myndighet til å gjøre redaksjonelle endringer i echo sine vedtekter. En redaksjonell endring er en endring vedrørende grammatikk, struktur eller ordlyd som ikke forandrer på meningen eller innholdet i originalteksten. Eventuelle endringer må protokollføres, og informeres om under neste generalforsamling.
 
-## § 14 Oppløsning
+## § 15 Oppløsning
 
-Oppløsning skjer dersom echo er uten styremedlemmer i mer enn 6 måneder. Eventuelle eiendeler skal da overføres til Instituttet.
+Oppløsning skjer dersom echo er uten Hovedstyret i mer enn 6 måneder. Eventuelle eiendeler skal da overføres til Instituttet.
 
-## § 15 Økonomi
+## § 16 Økonomi
 
 1. Hovedstyret skal drive foreningen på en bærekraftig og ansvarlig måte for nåværende og fremtidige generasjoner.
 2. Hver undergruppe plikter seg å sette opp et budsjett og føre regnskap for hvert semester.
 3. Hovedstyret plikter å sette opp et budsjett og føre regnskap for hvert semester.
-4. Undergruppene skal sende inn et førsteutkast av budsjettet til Hovedstyret i forkant av hvert semester. Hovedstyret vil deretter gi tilbakemelding, slik at nødvendige justeringer kan gjøres før budsjettet godkjennes i begynnelsen av det nye semesteret.
-5. Budsjettet skal ikke gå med underskudd med mindre hovedstyret gjør en investering for fremtidige generasjoner eller hovedstyret ser det som ansvarlig.
+4. Undergruppene skal sende inn et førsteutkast av budsjettet til Hovedstyret i forkant av hvert semester. Hovedstyret vil deretter gi tilbakemelding, slik at nødvendige justeringer kan gjøres før budsjettet godkjennes.
+5. Undergruppene er selv ansvarlig for å sende økonomisk søknad til Instituttet i begynnelsen av hvert semester.
+6. Budsjettet skal ikke gå med underskudd med mindre hovedstyret gjør en investering for fremtidige generasjoner eller hovedstyret ser det som ansvarlig.
