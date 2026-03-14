@@ -100,7 +100,9 @@ echo har ingen medlemskontingent.
 ## § 6 Taushetsplikt
 
 a. Personer som gjennom verv, rolle eller ved vedtak gis tilgang til fortrolig informasjon om echo, er underlagt taushetsplikt.
+
 b. Taushetsplikten omfatter opplysninger knyttet til enkeltpersoner, valgprosesser, økonomi eller organisasjonens virksomhet som ikke er offentlig tilgjengelige.
+
 c. Brudd på taushetsplikten anses som et alvorlig tillitsbrudd og kan behandles etter vedtektenes bestemmelser om §7 Mistillit.
 
 ## § 7 Hovedstyret
@@ -151,8 +153,11 @@ Hovedstyrets hovedoppgave er å sørge for at echo sine vedtekter opprettholdes,
 
 5. Kontor
    a. Hovedstyret er tildelt et kontor av Instituttet.
+
    b. echo sitt kontor skal omtales som echokammeret.
+
    c. Alle medlemmer av Hovedstyret har rett til å oppholde seg på echokammeret.
+
    d. Våre studenter som tidligere har vært medlem av Hovedstyret har tilgang til echokammeret, men opphold og bruk blir prioritert under det sittende Hovedstyret.
 
 ## § 8 Mistillit
@@ -201,8 +206,11 @@ Hovedstyrets hovedoppgave er å sørge for at echo sine vedtekter opprettholdes,
 4. Valgresultat
 
    a. Valgresultatet skal offentliggjøres som en alfabetisk liste bestående av de folkevalgte. Liste over resterende kandidater som stilte til valg skal publiseres i alfabetisk rekkefølge.
+
    b. Valgresultatet utover de folkevalgte skal være taushetsbelagt og oppbevares av en tredjepart uavhengig av echo.
+
    c. Innsyn kan gis til personer i og utenfor Hovedstyret, og må vedtas med 2/3 kvalifisert flertall på et Hovedstyremøte. Dersom begjæringen om innsyn ikke vedtas av Hovedstyret, kan søker kreve at saken tas opp på neste generalforsamling.
+
    d. Personer som gis innsyn etter punkt c er underlagt §6 Taushetsplikt.
 
 5. Gjennomføring av et valg
